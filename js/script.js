@@ -34,7 +34,7 @@ const renderPokemon = async (pokemon) => {
     pokemonImage.src =
       data["sprites"]["versions"]["generation-viii"]["icons"][
         "front_default"
-      ];
+      ] ||
     pokemonImage.src =
       data["sprites"]["versions"]["generation-v"]["black-white"]["animated"][
         "front_default"
