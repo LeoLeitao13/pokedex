@@ -1,10 +1,12 @@
 # 📋 Projeto Pokedex
 Este é um simulador de uma PokeDex que se comunica com a API PokeAPI pública do PokeAPI. Projeto aplicado com base no tutorial do Manual do Dev para treino de implementação de API.
 
+Para visualizar o resultado do projeto clique [AQUI]()
+
 # ✅ Tecnologias
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
 # 📱 Projeto no Mobile
 
